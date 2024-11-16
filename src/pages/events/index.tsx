@@ -9,7 +9,7 @@ export default function Events() {
         <div className="flex flex-col items-center justify-center min-h-[400px] bg-nyu-white p-6 rounded-lg shadow-md border border-nyu-gray">
           <div className="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-nyu-purple mb-4"></div>
           <p className="text-xl text-nyu-darkgray">Coming Soon...</p>
-          <p className="mt-2 text-nyu-darkgray">We're preparing exciting MATLAB events for the NYU community.</p>
+          <p className="mt-2 text-nyu-darkgray">We&apos;re preparing exciting MATLAB events for the NYU community.</p>
         </div>
       </div>
     </Layout>
